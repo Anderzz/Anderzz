@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Anders!</h1>
+<h1 align="center">Hi there!</h1>
 
 <div align="center">
   <p align="center">
-    <a href="https://linkedin.com/in/akjelsrud"><img alt="Contributor Covenant" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://linkedin.com/in/akjelsrud"><img alt="https://linkedin.com/in/akjelsrud" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 </div>
 <br/>
